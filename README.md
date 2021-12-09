@@ -1,3 +1,2 @@
 # I2S AUDIO DAC
 
-MODULE FOR PLAY SOUND USING I2S communication
